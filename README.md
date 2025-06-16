@@ -22,6 +22,14 @@ I build offensive and defensive cyber models targeting Tier-1 adversaries, with 
 * Endpoint malware logic
 * Signal intelligence (SIGINT)
 * AI-based deception detection
+* Cybersecurity & Digital Forensics
+*AI-Powered Security Systems
+*OS-Level Data Protection
+*Intrusion Detection & Response
+*Secure Data Exfiltration Control
+*Biometric & Emotion-Based Authentication
+
+
 
 ### 📫 Contact
 
