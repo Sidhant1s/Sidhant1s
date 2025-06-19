@@ -10,11 +10,15 @@ I build offensive and defensive cyber models targeting Tier-1 adversaries, with 
 * 🛡️ **[Healthy Spy – AI Safety Trigger Agent](https://github.com/Sidhant1s/healthy-spy)**
   Privacy-first emergency assistant that activates recording & alert based on biometric/motion anomalies.
 
-* 🛡️ **Passive Satellite Signal Defense & Triangulation System (PSSDTS)(https://github.com/Sidhant1s/satellite-signal-defense)**  
+* 🛡️ **[Passive Satellite Signal Defense & Triangulation System (PSSDTS)](https://github.com/Sidhant1s/satellite-signal-defense)**  
   A conceptual defense system to passively detect and localize unauthorized satellite signals using AI-driven triangulation and radar grid analysis. Submitted to PMO India for review.
 
 * 🛡️**[Guardian AI ](https://github.com/Sidhant1s/guardian-ai)**
    A multi-tiered, AI-powered data protection system designed for secure OS-level integration.
+  
+*  🤖**[ ](https://github.com/Sidhant1s/ai-mannequin-companion)**
+   Building an AI-powered mannequin that responds to emotion, performs CPR, and learns safely. 
+   
 
 ### 🛠️ Interests
 
