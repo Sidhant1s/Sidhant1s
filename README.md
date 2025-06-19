@@ -16,7 +16,7 @@ I build offensive and defensive cyber models targeting Tier-1 adversaries, with 
 * 🛡️**[Guardian AI ](https://github.com/Sidhant1s/guardian-ai)**
    A multi-tiered, AI-powered data protection system designed for secure OS-level integration.
   
-*  🤖**[ ](https://github.com/Sidhant1s/ai-mannequin-companion)**
+*  🤖**[AI Mannequin ](https://github.com/Sidhant1s/ai-mannequin-companion)**
    Building an AI-powered mannequin that responds to emotion, performs CPR, and learns safely. 
    
 
