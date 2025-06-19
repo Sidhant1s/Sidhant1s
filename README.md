@@ -32,6 +32,7 @@ I build offensive and defensive cyber models targeting Tier-1 adversaries, with 
 *Intrusion Detection & Response
 *Secure Data Exfiltration Control
 *Biometric & Emotion-Based Authentication
+*AI -Powered Robot
 
 
 
