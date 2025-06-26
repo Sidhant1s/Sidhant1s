@@ -1,9 +1,12 @@
-🧠 Sidhant Negi – Cybersecurity Researcher  
+# 🧠 **Sidhant Negi – Cybersecurity Researcher**  
+
 I build offensive and defensive cyber models targeting Tier-1 adversaries, with a focus on privacy protocols, worm-based endpoint surveillance, and passive space signal detection.
 
 🔗 **GitHub Profile**: [github.com/Sidhant1s](https://github.com/Sidhant1s)
 
-🔍 Key Projects (10 Total)
+---
+
+## 🔍 Key Projects (10 Total)
 
 🪱 [**Worm-Assisted Surveillance on Monero**](https://github.com/Sidhant1s/Worm-Assisted-Monero-Surveillance)  
 A **conceptual** Tier-1 adversary model using entropy filtering, behavioral probes, and OS-level worms to trace XMR receivers.
@@ -37,19 +40,22 @@ An AI-based safety model using facial emotion recognition, sudden action detecti
 
 ---
 
-🛠️ Interests  
-Blockchain surveillance  
-Endpoint malware logic  
-Signal intelligence (SIGINT)  
-AI-based deception detection  
-Cybersecurity & Digital Forensics  
-AI-Powered Security Systems  
-OS-Level Data Protection  
-Intrusion Detection & Response  
-Secure Data Exfiltration Control  
-Biometric & Emotion-Based Authentication  
-AI -Powered Robot
+## 🛠️ Interests  
+- Blockchain surveillance  
+- Endpoint malware logic  
+- Signal intelligence (SIGINT)  
+- AI-based deception detection  
+- Cybersecurity & Digital Forensics  
+- AI-Powered Security Systems  
+- OS-Level Data Protection  
+- Intrusion Detection & Response  
+- Secure Data Exfiltration Control  
+- Biometric & Emotion-Based Authentication  
+- AI-Powered Robotics  
 
-📫 Contact  
+---
+
+## 📫 Contact  
 📧 Email: sidhantnegi68@gmail.com  
-All work © Sidhant Negi. No reproduction without permission.
+_All work © Sidhant Negi. No reproduction without permission._
+
